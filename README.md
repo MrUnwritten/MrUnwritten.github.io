@@ -1,9 +1,14 @@
-# bootstrap-boilerplate
+# Mobile Friendly Websites Project
 
 ## Description
-A basic HTML5 Bootstrap template,
-including the required CSS and JS for
-Bootstrap to run.
+Project Includes
+Nav/Navbar
+Jumbotron or Carousel
+Accordion or thumbnails
+Link to at least 1 site I have created
+Use at least 4 social media / font awesome icons
+Use at least 2 Google Fonts
+Customized Contact Form
 
 ## Prerequistes
 - Understanding of [Bootstrap] (https://getbootstrap.com/)
